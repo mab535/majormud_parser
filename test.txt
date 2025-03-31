@@ -1,0 +1,153 @@
+[HP=2135]:who
+         Current Adventurers
+         ===================
+
+         Catspaw    -  Master  of The Regime. EDITED
+    Good Klormach   -  Master  of The Regime. EDITED
+         Ralfus     -  Master  of The Regime. EDITED
+
+[HP=2135]:l klor
+[ Klormach ] -- Immortal ! (The Regime.)
+Klormach is a colossal, physically Godlike Half-Ogre Mystic with no hair and
+black eyes.  It moves blindingly fast, and is overwhelmingly charismatic.  You
+almost drop to your knees in wonder at the sight of it!.  Klormach appears to
+be all-knowing and looks like it is one with the Gods.  It is unwounded.
+
+It is equipped with:
+
+platinum ring                  (Finger)
+ogre-skin baldric              (Waist)
+skull mask                     (Ears)
+enigma gloves                  (Hands)
+enigma sandals                 (Feet)
+jeweled turban                 (Head)
+spiked obsidian collar         (Neck)
+peasant cloak                  (Back)
+silversilk tunic               (Torso)
+stormmetal bracers             (Arms)
+sunstone wristband             (Wrist)
+skirts of flame                (Legs)
+Kai battle-staff               (Weapon Hand)
+
+[HP=2135]:l cats
+[ Catspaw ] -- Immortal ! (The Regime.)
+Catspaw is a colossal, physically Godlike Half-Ogre Witchunter with no hair
+and black eyes.  It moves blindingly fast, and is overwhelmingly charismatic.
+You almost drop to your knees in wonder at the sight of it!.  Catspaw appears
+to be all-knowing and looks like it is one with the Gods.  It is unwounded.
+
+It is equipped with:
+
+sunstone wristband             (Wrist)
+inquisitor's cloak             (Back)
+crowned spider skull           (Head)
+crimson earrings               (Ears)
+stormmetal scalemail tunic     (Torso)
+crimson ring                   (Finger)
+adamantite bracers             (Arms)
+magma amulet                   (Neck)
+adamantite enforced boots      (Feet)
+crimson scalemail leggings     (Legs)
+adamantite scale gauntlets     (Hands)
+belt of the crimson flame      (Waist)
+tree trunk                     (Weapon Hand)
+
+[HP=2135]:
+Newhaven, Village Entrance
+You notice 20 platinum pieces, 47 gold crowns, red chitin helm, titanic stone
+maul, platinum plate leggings, 2 platinum plate gauntlets, petrified stone
+corselet, obsidian runestaff, silverwood staff, Dusk, Darkbane, Feyr, 2 nexus
+spear, large sign, newbie manual here.
+Also here: Klormach, Catspaw.
+Obvious exits: north, south, west, southeast
+[HP=2135]:l
+Newhaven, Village Entrance
+    Welcome to Newhaven! You are standing at the crude wooden gates of the
+village entrance, in the middle of a dusty path. A low wooden palisade
+surrounds the village, to protect against creatures of the night and random
+raiders. You can see small buildings to the north and south, and a dusty path
+that leads to the west and southeast.
+You notice 20 platinum pieces, 47 gold crowns, red chitin helm, titanic stone
+maul, platinum plate leggings, 2 platinum plate gauntlets, petrified stone
+corselet, obsidian runestaff, silverwood staff, Dusk, Darkbane, Feyr, 2 nexus
+spear, large sign, newbie manual here.
+Also here: Klormach, Catspaw.
+Obvious exits: north, south, west, southeast
+[HP=2135]:n
+Newhaven, Weapons Shop
+Also here: Nathaniel.
+Obvious exits: south
+[HP=2135]:s
+Newhaven, Village Entrance
+You notice 20 platinum pieces, 47 gold crowns, red chitin helm, titanic stone
+maul, platinum plate leggings, 2 platinum plate gauntlets, petrified stone
+corselet, obsidian runestaff, silverwood staff, Dusk, Darkbane, Feyr, 2 nexus
+spear, large sign, newbie manual here.
+Also here: Klormach, Catspaw.
+Obvious exits: north, south, west, southeast
+[HP=2135]:s
+Newhaven, Armour Shop
+Also here: Betram.
+Obvious exits: north
+[HP=2135]:n
+Newhaven, Village Entrance
+You notice 20 platinum pieces, 47 gold crowns, red chitin helm, titanic stone
+maul, platinum plate leggings, 2 platinum plate gauntlets, petrified stone
+corselet, obsidian runestaff, silverwood staff, Dusk, Darkbane, Feyr, 2 nexus
+spear, large sign, newbie manual here.
+Also here: Klormach, Catspaw.
+Obvious exits: north, south, west, southeast
+[HP=2135]:se
+Newhaven, Forest Path
+Obvious exits: south, northwest
+[HP=2135]:s
+Newhaven, Docks
+Also here: ferryman.
+Obvious exits: north
+[HP=2135]:n
+Newhaven, Forest Path
+Obvious exits: south, northwest
+[HP=2135]:nw
+Newhaven, Village Entrance
+You notice 20 platinum pieces, 47 gold crowns, red chitin helm, titanic stone
+maul, platinum plate leggings, 2 platinum plate gauntlets, petrified stone
+corselet, obsidian runestaff, silverwood staff, Dusk, Darkbane, Feyr, 2 nexus
+spear, large sign, newbie manual here.
+Also here: Klormach, Catspaw.
+Obvious exits: north, south, west, southeast
+[HP=2135]:w
+Newhaven, Narrow Path
+Obvious exits: north, south, east, west
+[HP=2135]:n
+Newhaven, Spell Shop
+Also here: Rayth.
+Obvious exits: south
+[HP=2135]:s
+Newhaven, Narrow Path
+Obvious exits: north, south, east, west
+[HP=2135]:s
+Newhaven, General Store
+Also here: Dathalar.
+Obvious exits: north
+[HP=2135]:n
+Newhaven, Narrow Path
+Obvious exits: north, south, east, west
+[HP=2135]:w
+Newhaven, Narrow Road
+Obvious exits: north, east, west, down
+
+
+[HP=49]:l vio
+[ Violet Plant ]
+Violet is a stout, moderately built Human Priest with no hair and black eyes.
+He moves cautiously, and is likable in an unassuming sort of way.  Violet
+appears to be intelligent and looks fairly knowledgeable.  He is unwounded.
+
+He is equipped with:
+
+padded gloves                  (Hands)
+padded vest                    (Torso)
+quarterstaff                   (Weapon Hand)
+
+[HP=49]:
+
